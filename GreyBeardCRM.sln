@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32602.291
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreyBeardCRM", "GreyBeardCRM\GreyBeardCRM.csproj", "{F1DD2A03-0CA9-443C-91E0-AE3C97D38531}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1DD2A03-0CA9-443C-91E0-AE3C97D38531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1DD2A03-0CA9-443C-91E0-AE3C97D38531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1DD2A03-0CA9-443C-91E0-AE3C97D38531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1DD2A03-0CA9-443C-91E0-AE3C97D38531}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {00535C26-8323-48CC-BFCA-A56C6953C6E7}
+	EndGlobalSection
+EndGlobal
